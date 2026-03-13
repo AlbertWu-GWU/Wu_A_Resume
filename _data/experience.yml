@@ -1,28 +1,17 @@
 # Jobs
 # Full professor
-- company: The George Washington University
-  position: Professor
-  duration: 2019 &mdash; Present
-  summary: Department of Mechanical and Aerospace Engineering. Teaching graduate and undergraduate courses in	<ul class="resume-item-list"><li>Engineering Computations</li><li>Numerical Methods with Python</li><li>Aerodynamics</li></ul>
+- company: The George Washington University Rocket Team
+  position: Club member
+  duration: 2025 &mdash; Present
+  summary: Working together across sub-teams to assemble fully function rocket
 
-- company: University of California Berkeley
-  position: Visiting Scholar
-  duration: Jan. 2016 &mdash; May 2016
-  summary: Berkeley Institute of Data Science (BIDS)
-
-# Associate Professor
-- company: The George Washington University
-  position: Associate Professor
-  duration: Aug. 2013 &mdash; July 2019
-
+- company: Dirty Habit
+  position: Host
+  duration: May 2025 &mdash; Aug. 2025
+  summary: Welcoming face of the restaurant
 
 # Assistant Professor
-- company: Boston University
-  position: Assistant Professor
-  duration:   Aug. 2008  &mdash; July 2013
-  summary: Department of Mechanical Engineering. Taught graduate and undergraduate courses in Fluid Mechanics</li><li>Computational Fluid Dynamics</li>
-
-- company: University of Bristol, UK
-  position: Lecturer (and Senior Lecturer)
-  duration: Aug. 2004 &mdash; Aug. 2008
-  summary: Applied Mathematics. Taught courses in <ul class="resume-item-list"><li>Ordinary Differential Equations</li><li>Introduction to Physcial Modeling</li>
+- company: Southwest Academy
+  position: Audio Engineer
+  duration: June 2023  &mdash; Aug. 2023
+  summary: Conﬁgured and optimized audio systems by setting up soundboards, microphones, speakers, and cabling to 
