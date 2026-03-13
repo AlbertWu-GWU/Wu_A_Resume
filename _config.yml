@@ -1,6 +1,6 @@
 # Site settings
-title: "Lorena A. Barba"
-description: "Resume based on template for Jekyll and GitHub Pages sites."
+title: "Albert Q. Wu"
+description: "List of relative experience and skills"
 
 # Build settings
 markdown: kramdown
@@ -20,10 +20,10 @@ resume_contact_email:           "albertqiao.wu@gmail.com"
 resume_contact_telephone:       "202-701-0123"
 resume_contact_address:         "401 K Street NW"
 
-resume_header_contact_info:     "800 22nd Street NW, 3000 Science & Engineering Hall • 202-994-6749 • labarba@gwu.edu"
+resume_header_contact_info:     "401 K Street NW 20001, Washington D.C.  • 202-701-0123 • albertqiao.wu@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Engineering professor, computational scientist, open science pioneer, faculty director of the GW Open Source Program Office, Jupyter Distinguised Contributor.</p>"
+resume_header_intro: "<p>Undergraduate engineering student, majoring in mechanical engineering, declared concetration in robotics, first generation college student.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -45,14 +45,14 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/labarba"
-  resume_twitter_url:           "https://x.com/LorenaABarba"
+  resume_github_url:            "https://github.com/AlbertWu-GWU"
+  resume_twitter_url:           "https://x.com/AlbertWu"
   #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/lorenabarba/"
+  resume_linkedin_url:          "https://www.linkedin.com/in/albert-q-wu/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://lorenabarba.com"
-  resume_medium_url:            "https://medium.com/@lorenaabarba"
+  resume_website_url:           "http://albert-q-wu.com"
+  resume_medium_url:            "https://medium.com/@albert-q-wu"
 resume_print_social_links:      true
 
 # Design settings
